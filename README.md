@@ -7,7 +7,7 @@
 
 * [Github](https://github.com/);
 * [Git](https://git-scm.com/);
-* [Jekyll](http://jekyllrb.com/）;
+* [Jekyll](http://jekyllrb.com/);
 * [Clean Blog Theme](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll);
 * [Markdown](https://daringfireball.net/projects/markdown/);
 * [DNSPod](https://www.dnspod.cn/);

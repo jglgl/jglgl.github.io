@@ -1,19 +1,19 @@
 # Site settings
-title: 
+title: Learning
 header-img: "img/autumn2.jpg"
-tagline: ""  
-description: ""  
-baseurl: ""
+tagline: "学无止境"  
+description: "足迹"  
+baseurl: "http://wujunzero.github.io"
 url: "http://wujunzero.github.io"  
 
 # About/contact
 owner: 
   name: "WuJun"
   email: wujunzero@163.com
-  bio: ""
+  bio: "Master"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: img/gavatar.png
 favicon: img/favicon.ico
 
 douban_username: wujunzero

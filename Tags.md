@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "标签库"  
-header-img: "img/semantic.jpg"  
+header-img: ""  
 ---
 
 ##标签列表
